@@ -1,1 +1,2 @@
 Console output =asdas;
+print(52)
